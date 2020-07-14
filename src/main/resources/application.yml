@@ -1,0 +1,4 @@
+basicauth:
+  realmName: Demo Realm Name
+  name: hosono
+  pass: lovelovelove
