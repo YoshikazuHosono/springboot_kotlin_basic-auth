@@ -5,7 +5,7 @@ import org.springframework.boot.runApplication
 import org.springframework.context.annotation.ComponentScan
 
 @SpringBootApplication
-@ComponentScan("com.example.demo.controller")
+@ComponentScan("com.example.demo.controller", "com.example.demo.config")
 class DemoApplication
 
 fun main(args: Array<String>) {
